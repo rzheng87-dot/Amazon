@@ -1,0 +1,16 @@
+.hzsearch-breadcrumbs__crumb{margin-right:6px!important}.hzsearch-breadcrumbs__crumb--divider{top:-.1em}
+/* ******** */
+.hzsearch-text-input{padding-inline-end:30px!important}.hzsearch-input-close-icon{position:absolute;inset-inline-end:20px;transform:translateY(10%);z-index:1}
+/* ******** */
+.hzsearch-item-view-qty{background-color:#fff;background-color:rgba(255,255,255,.9);border-radius:10px;border:1px solid #ccc;bottom:-3px;font-size:.8em;height:20px;line-height:20px;min-width:20px;padding:0 5px;position:absolute;right:-3px;text-align:center;width:auto}
+/* ******** */
+.hzsearch-primary-status-message .a-nowrap{display:inline}.hzsearch-secondary-status-message-inline .a-text-bold{display:inline;font-weight:400!important}.hzsearch-alert-status{color:#C40000;font-weight:700!important}
+/* ******** */
+footer.nav-mobile{display:none}
+/* ******** */
+.hzsearch-content-container{margin:0 auto;width:920px}
+/* ******** */
+.search-bar{display:table;width:100%}.search-bar__input-container{display:table-cell;width:100%}.search-bar__button-container{display:table-cell;padding-left:10px}
+/* ******** */
+.next-page-spinner-container{text-align:center;vertical-align:middle;padding-top:3rem;padding-bottom:3rem;display:none}
+/* ******** */
